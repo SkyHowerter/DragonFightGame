@@ -1,0 +1,33 @@
+Character Types:
+Knight:
+strength: 8
+health: 18
+speed: 8
+
+Lancer:
+strength: 10
+health: 18
+speed: 6
+
+Archer:
+strength: 8
+health: 16
+speed: 10
+
+Medic:
+strength: 6
+health: 20
+speed: 8
+
+Weaponry:
+Sword:
+swipe: hit +2; evade -1
+perry: hit +0; evade +4
+
+Mace:
+swing: hit +3; evade -1
+block: hit +0; evade +3
+
+Bow (all attacks have a 50% chance of hitting):
+singleshot: hit +2; evade +2
+doubleshot: hit +3; evade +1
